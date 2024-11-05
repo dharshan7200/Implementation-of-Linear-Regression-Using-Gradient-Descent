@@ -68,11 +68,12 @@ DATA.HEAD()
 
 X VALUE 
 
-![image](https://github.com/user-attachments/assets/83d89cce-8fa6-491b-9c3f-6c18f2c63c3c)
+![Screenshot 2024-11-04 234336](https://github.com/user-attachments/assets/d83682e4-537f-4984-bfa1-06d7bcf56c0e)
 
 X1_SCALED VALUE 
 
-![image](https://github.com/user-attachments/assets/0920d359-e997-46a2-844c-740ef89f149a)
+![Screenshot 2024-11-04 234422](https://github.com/user-attachments/assets/5a3585ab-7467-4dc2-a191-ac07075abb56)
+
 
 PREDICTED VALUES:
 
